@@ -1,0 +1,10 @@
+﻿Name: TinyMce4
+AntiForgery: enabled
+Author: Jeff Bulock
+Website: http://www.rvc.ac.uk
+Version: 1.8.0
+OrchardVersion: 1.8.0
+Description: Enables the TinyMCE 4.0.
+FeatureDescription: TinyMCE HTML WYSIWYG editor.
+FeatureDependencies: Orchard.jQuery
+Category: Input Editor
